@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2022-12-31T17:58:20.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="xgPDw321eeiJQy5G2Bet" version="20.5.3" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1293" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QSSXwftTMws7YJHr802F-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QSSXwftTMws7YJHr802F-2" target="QSSXwftTMws7YJHr802F-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSSXwftTMws7YJHr802F-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QSSXwftTMws7YJHr802F-10" target="QSSXwftTMws7YJHr802F-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSSXwftTMws7YJHr802F-10" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="97.75" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QSSXwftTMws7YJHr802F-11" value="Database" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="790" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QSSXwftTMws7YJHr802F-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QSSXwftTMws7YJHr802F-12" target="QSSXwftTMws7YJHr802F-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSSXwftTMws7YJHr802F-12" value="Webserver" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-hand-drawn-vol-1/52/server__database__data__storage__computer__webserver__electronic-128.png" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="570" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="QSSXwftTMws7YJHr802F-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QSSXwftTMws7YJHr802F-15" target="QSSXwftTMws7YJHr802F-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSSXwftTMws7YJHr802F-15" value="WebBrowser" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.web_browser;" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="50" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QSSXwftTMws7YJHr802F-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="200" width="570" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="QSSXwftTMws7YJHr802F-2" value="React Subsystem Application" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="QSSXwftTMws7YJHr802F-16">
+          <mxGeometry width="570" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="QSSXwftTMws7YJHr802F-3" value="Store Management" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="QSSXwftTMws7YJHr802F-16">
+          <mxGeometry x="30" y="45" width="230" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="QSSXwftTMws7YJHr802F-4" value="Authentication management" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="QSSXwftTMws7YJHr802F-16">
+          <mxGeometry x="310" y="45" width="229" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="QSSXwftTMws7YJHr802F-5" value="Order management" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="QSSXwftTMws7YJHr802F-16">
+          <mxGeometry x="30" y="180" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QSSXwftTMws7YJHr802F-6" value="Report Statistics" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="QSSXwftTMws7YJHr802F-16">
+          <mxGeometry x="310" y="180" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QSSXwftTMws7YJHr802F-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QSSXwftTMws7YJHr802F-19" target="QSSXwftTMws7YJHr802F-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QSSXwftTMws7YJHr802F-19" value="GraphQL" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="710" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
