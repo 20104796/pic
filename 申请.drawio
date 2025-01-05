@@ -1,9 +1,102 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
   <diagram name="Page-1" id="RJpt-4p-D6zCGCR0nMQW">
-    <mxGraphModel>
+    <mxGraphModel dx="1859" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLeqqrW3UBJ0NQXI_s4u-1" target="dLeqqrW3UBJ0NQXI_s4u-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="295" y="130" />
+              <mxPoint x="-5" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLeqqrW3UBJ0NQXI_s4u-1" target="dLeqqrW3UBJ0NQXI_s4u-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="295" y="130" />
+              <mxPoint x="395" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-1" value="有问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLeqqrW3UBJ0NQXI_s4u-2" target="dLeqqrW3UBJ0NQXI_s4u-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-2" value="master out &lt;br&gt;跑路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLeqqrW3UBJ0NQXI_s4u-3" target="dLeqqrW3UBJ0NQXI_s4u-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLeqqrW3UBJ0NQXI_s4u-3" target="dLeqqrW3UBJ0NQXI_s4u-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="395" y="230" />
+              <mxPoint x="505" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-3" value="换导师" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-5" value="系主任协商" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="270" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-6" value="其他组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="260" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-7" value="其他学校" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLeqqrW3UBJ0NQXI_s4u-12" target="dLeqqrW3UBJ0NQXI_s4u-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-12" value="&lt;span style=&quot;text-align: left;&quot;&gt;其他中国人导师，各种care，各种白嫖&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="55" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLeqqrW3UBJ0NQXI_s4u-14" target="dLeqqrW3UBJ0NQXI_s4u-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-14" value="足够的理由 to accept&lt;br&gt;(华人思维，老美看来十分正常）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="160" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLeqqrW3UBJ0NQXI_s4u-16" target="dLeqqrW3UBJ0NQXI_s4u-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-16" value="我有自己更感兴趣的&lt;br&gt;有自己的研究方向&lt;br&gt;有成熟的idea" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-20" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;与秘书的关系&amp;nbsp; 处理行政事物的人&lt;br&gt;系主任和小秘处理矛盾&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLeqqrW3UBJ0NQXI_s4u-2" target="dLeqqrW3UBJ0NQXI_s4u-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-230" y="390" as="sourcePoint" />
+            <mxPoint x="-180" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-22" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLeqqrW3UBJ0NQXI_s4u-20" target="dLeqqrW3UBJ0NQXI_s4u-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="360" as="sourcePoint" />
+            <mxPoint x="120" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-25" value="&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:等线;mso-ascii-font-family:Aptos;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Aptos;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;熟悉的老师&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;&lt;br/&gt;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:等线;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt; &lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;&lt;br/&gt;line-height:115%;font-family:等线;mso-ascii-font-family:Aptos;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Aptos;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;校内校外&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="360" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-26" value="&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:等线;mso-ascii-font-family:Aptos;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Aptos;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;系内&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;&lt;br/&gt;line-height:115%;font-family:等线;mso-ascii-font-family:Aptos;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Aptos;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;有没有&lt;br&gt;别的情况&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-27" value="&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:等线;mso-ascii-font-family:Aptos;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Aptos;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;因为没基础&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;&lt;br/&gt;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:等线;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt; &lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;&lt;br/&gt;line-height:115%;font-family:等线;mso-ascii-font-family:Aptos;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Aptos;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;不一定愿意带我&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dLeqqrW3UBJ0NQXI_s4u-28" value="&lt;span style=&quot;font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:等线;mso-ascii-font-family:Aptos;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Aptos;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;重新申请&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;&lt;br/&gt;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:等线;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;&lt;br/&gt;line-height:115%;font-family:等线;mso-ascii-font-family:Aptos;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Aptos;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;积累自己的想做的&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;&lt;br/&gt;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:等线;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;connection&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="360" width="150" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
